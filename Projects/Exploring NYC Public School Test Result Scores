@@ -1,0 +1,39 @@
+# %% Re-run this cell 
+import pandas as pd
+
+# %% Read in the data
+schools = pd.read_csv("/Users/nikitasmacbookpro16/Desktop/Data/git-repo/Files/Samle data/schools.csv")
+
+# %% Preview the data
+schools.head()
+
+# Calculate math results in percent
+schools['math_percent'] = schools['average_math'] / 800 * 100 
+
+# Get the table with only math results
+math_schools = schools[schools['math_percent'] > 80]
+math_schools.head()
+
+# Get table with best math results only
+best_math_schools = math_schools[['school_name', 'average_math']].sort_values('average_math', ascending = False)
+best_math_schools.head()
+
+# Calculating total_SAT column
+schools['total_SAT'] = schools['average_math'] + schools['average_reading'] + schools['average_writing']
+schools.head()
+
+# Get the top 10 schools by SAT score
+top_10_schools = schools[['school_name', 'total_SAT']].sort_values('total_SAT', ascending = False).iloc[0:10] 
+top_10_schools
+
+# Group schools by borough and calculate aggregate statistics
+schools_by_borough = round(schools.groupby('borough').agg({'school_name':'count', 'total_SAT':['mean', 'std']}), 2)
+schools_by_borough
+
+# Rename columns
+schools_by_borough.columns = ['num_schools', 'average_SAT', 'std_SAT']
+schools_by_borough
+
+# Showing borough with the highest standard deviation
+largest_std_dev =  schools_by_borough[schools_by_borough['std_SAT'] == schools_by_borough['std_SAT'].max()]
+largest_std_dev
