@@ -1,0 +1,6 @@
+.env
+config/*.json
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
