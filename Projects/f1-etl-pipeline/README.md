@@ -53,7 +53,7 @@ f1-etl-project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/n-chistyakov/f1-etl-pipeline.git
+git clone https://github.com/n-chistyakov/git-repo/tree/main/Projects/f1-etl-pipeline
 cd f1-etl-pipeline
 ```
 
