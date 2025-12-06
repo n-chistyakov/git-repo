@@ -109,8 +109,8 @@ python scripts/load_to_gsheet.py
 
 ## 🙇‍♂️ Contact
 
-Built by **\Nikita Chistyakov**
-[LinkedIn](https://www.linkedin.com/in/nikitachistyakov) | [GitHub](https://github.com/n-chistyakov/git-repo)
+Built by **Nikita Chistyakov**
+[Email](mailto:chistyakov.inbox@gmail.com) | [GitHub](https://github.com/n-chistyakov/git-repo)
 
 
 

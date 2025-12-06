@@ -43,7 +43,7 @@ Highlighted works:
 Feel free to reach out:
 
 - GitHub: [n-chistyakov](https://github.com/n-chistyakov)
-- LinkedIn: [linkedin.com/nikitachistyakov](https://www.linkedin.com/in/nikitachistyakov/)
-- Email: chistyakov.inbox@gmail.com
+<!-- LinkedIn: [linkedin.com/nikitachistyakov](https://www.linkedin.com/in/nikitachistyakov/) --> -->
+- Email: [chistyakov.inbox@gmail.com] (mailto:chistyakov.inbox@gmail.com)
 
 
