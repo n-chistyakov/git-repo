@@ -30,20 +30,20 @@ Some tools and technologies used across projects:
 
 ---
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 Highlighted works:
 - **F1 ETL Pipeline** – API → Postgres (RDS) → GSheet → Looker
 - **NYC school analysis** – analysis of school results with Python (pandas)
 
----
+--- -->
 
 ## 📬 Contact
 
 Feel free to reach out:
 
 - GitHub: [n-chistyakov](https://github.com/n-chistyakov)
-<!-- LinkedIn: [linkedin.com/nikitachistyakov](https://www.linkedin.com/in/nikitachistyakov/) --> -->
-- Email: [chistyakov.inbox@gmail.com] (mailto:chistyakov.inbox@gmail.com)
+<!-- LinkedIn: [linkedin.com/nikitachistyakov](https://www.linkedin.com/in/nikitachistyakov/) -->
+- Email: [chistyakov.inbox@gmail.com]
 
 
