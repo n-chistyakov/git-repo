@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-Collection of data engineering and analytics projects by **Nikita Chistyakov** 
+Collection of data analytics projects by **Nikita Chistyakov** 
 
 
 ## 🧠 About Me
@@ -28,6 +28,6 @@ Analytics Engineer with 5+ years of experience in data across edtech & fintech. 
 
 - GitHub: [n-chistyakov](https://github.com/n-chistyakov)
 - LinkedIn: [linkedin.com/in/nikitachistyakov](https://www.linkedin.com/in/nikitachistyakov/)
-- Email: chistyakov.inbox@gmail.com
+- Email: chistyakov97@gmail.com
 
 
